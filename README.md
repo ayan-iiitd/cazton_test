@@ -10,7 +10,7 @@
 - Packages installed from `pip` that were not present in Colab: `datasets`, `evaluate`, `torch==2.0`, `peft`
 
 
-#### Methodology
+### Methodology
 - Scrape data using BeutifulSoup from cazton.com
   - Using `href` and `a` tags, collect all pages linked on a page.
   - Recursively continue scraping pages until all under the domain are scraped.
