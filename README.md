@@ -24,4 +24,4 @@
 - Initialise and train using the Huggingface trainer.
 
 
-Link to video Demo - 
+Link to video Demo - https://drive.google.com/drive/folders/1K5lLGe6FUu_3kpBWkj1p9SHTx8zF_fss?usp=drive_link
